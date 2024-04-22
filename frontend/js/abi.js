@@ -1,1 +1,1 @@
-const abi = []
+const abi = [0e4627acb0955825b617e66012059b9e]
